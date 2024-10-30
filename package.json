@@ -1,0 +1,21 @@
+{
+  "name": "get_uni",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "build",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnupKurdekar/University_Project.git"
+  },
+  "author": "anup kurdekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnupKurdekar/University_Project/issues"
+  },
+  "homepage": "https://github.com/AnupKurdekar/University_Project#readme",
+  "description": ""
+}
+
